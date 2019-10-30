@@ -10,7 +10,7 @@ const IndexPage = ({ data }) => {
 
       <div>
         {data.allPapersJson.edges.map(({ node }) => (
-          <div key={node.id}>
+          <div key={node.id} className="clearfix">
             <Link to={`/${node.id}`}>
               <img src={node.cover} alt={node.song} style={{ width: 80, height: 80, float: 'left', marginRight: 8 }} />
               <h3>
