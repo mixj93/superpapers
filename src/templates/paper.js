@@ -1,6 +1,5 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import { Helmet } from 'react-helmet'
 import Layout from '../components/layout'
 import Paper from '../components/paper'
 import SEO from '../components/seo'
