@@ -15,34 +15,15 @@
       "sentences": [{
           "words": [{
               "type": "pressed",
-              "keys": [1]
+              "keys": ["1"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [7]
-            },
-            {
-              "type": "pressed",
-              "keys": ["A"]
-            }
-          ]
-        },
-        {
-          "words": [{
-              "type": "pressed",
-              "keys": [1, 2]
-            },
-            {
-              "type": "pressed",
-              "keys": [4]
-            },
-            {
-              "type": "pressed",
-              "keys": [7]
+              "keys": ["7"]
             },
             {
               "type": "pressed",
@@ -53,15 +34,15 @@
         {
           "words": [{
               "type": "pressed",
-              "keys": [1, 5]
+              "keys": ["1", "2"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [7]
+              "keys": ["7"]
             },
             {
               "type": "pressed",
@@ -72,15 +53,34 @@
         {
           "words": [{
               "type": "pressed",
-              "keys": [1, 8]
+              "keys": ["1", "5"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [7]
+              "keys": ["7"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["A"]
+            }
+          ]
+        },
+        {
+          "words": [{
+              "type": "pressed",
+              "keys": ["1", "8"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["4"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["7"]
             },
             {
               "type": "pressed",
@@ -95,42 +95,42 @@
       "sentences": [{
           "words": [{
               "type": "pressed",
-              "keys": [3, "B"]
+              "keys": ["3", "B"]
             },
             {
               "type": "pressed",
-              "keys": [6]
+              "keys": ["6"]
             },
             {
               "type": "pressed",
-              "keys": [3]
+              "keys": ["3"]
             },
             {
               "type": "pressed",
-              "keys": [6]
+              "keys": ["6"]
             },
             {
               "type": "pressed",
-              "keys": [3]
+              "keys": ["3"]
             },
             {
               "type": "pressed",
-              "keys": [3]
+              "keys": ["3"]
             },
             {
               "type": "pressed",
-              "keys": [3]
+              "keys": ["3"]
             },
             {
               "type": "pressed",
-              "keys": [6]
+              "keys": ["6"]
             }
           ]
         },
         {
           "words": [{
               "type": "pressed",
-              "keys": [9]
+              "keys": ["9"]
             },
             {
               "type": "pressed",
@@ -138,7 +138,7 @@
             },
             {
               "type": "pressed",
-              "keys": [9]
+              "keys": ["9"]
             },
             {
               "type": "pressed",
@@ -146,15 +146,15 @@
             },
             {
               "type": "pressed",
-              "keys": [9]
+              "keys": ["9"]
             },
             {
               "type": "pressed",
-              "keys": [9]
+              "keys": ["9"]
             },
             {
               "type": "pressed",
-              "keys": [9]
+              "keys": ["9"]
             },
             {
               "type": "pressed",
@@ -169,15 +169,15 @@
       "sentences": [{
           "words": [{
               "type": "pressed",
-              "keys": [1, 8]
+              "keys": ["1", "8"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [7]
+              "keys": ["7"]
             },
             {
               "type": "pressed",
@@ -188,15 +188,15 @@
         {
           "words": [{
               "type": "pressed",
-              "keys": [1]
+              "keys": ["1"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [7, 8]
+              "keys": ["7", "8"]
             },
             {
               "type": "pressed",

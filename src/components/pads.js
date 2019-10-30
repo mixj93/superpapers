@@ -87,7 +87,7 @@ Pads.propTypes = {
   padSize: PropTypes.string,
   showPadNumber: PropTypes.bool,
   side: PropTypes.arrayOf(PropTypes.oneOf(['red', 'green', 'orange', 'blue-loop'])),
-  pressedKeys: PropTypes.arrayOf(PropTypes.oneOf([1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C']))
+  pressedKeys: PropTypes.arrayOf(PropTypes.oneOf(['1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C']))
 }
 
 export default Pads

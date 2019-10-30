@@ -5,6 +5,7 @@ import Paper from '../components/paper'
 
 export default ({ data }) => {
   const paper = data.papersJson
+  console.log(paper)
   return (
     <Layout>
       <h1 style={{ textAlign: 'center' }}>{`${paper.song} - ${paper.artist}`}</h1>
@@ -29,6 +30,7 @@ export const query = graphql`
           repeat
           words {
             type
+            keys
           }
         }
       }

@@ -15,19 +15,19 @@
       "sentences": [{
         "words": [{
             "type": "pressed",
-            "keys": [7]
+            "keys": ["7"]
           },
           {
             "type": "pressed",
-            "keys": [8]
+            "keys": ["8"]
           },
           {
             "type": "pressed",
-            "keys": [9]
+            "keys": ["9"]
           },
           {
             "type": "pressed",
-            "keys": [8]
+            "keys": ["8"]
           }
         ],
         "repeat": 2
@@ -38,7 +38,7 @@
       "sentences": [{
           "words": [{
               "type": "pressed",
-              "keys": [1, "B"]
+              "keys": ["1", "B"]
             },
             {
               "type": "pressed",
@@ -69,7 +69,7 @@
         {
           "words": [{
               "type": "pressed",
-              "keys": [2, "B"]
+              "keys": ["2", "B"]
             },
             {
               "type": "pressed",
@@ -131,11 +131,11 @@
         {
           "words": [{
               "type": "pressed",
-              "keys": [3, 7, "B"]
+              "keys": ["3", "7", "B"]
             },
             {
               "type": "pressed",
-              "keys": [8, "A"]
+              "keys": ["8", "A"]
             },
             {
               "type": "pressed",
@@ -143,11 +143,11 @@
             },
             {
               "type": "pressed",
-              "keys": [9, "C"]
+              "keys": ["9", "C"]
             },
             {
               "type": "pressed",
-              "keys": [8, "A"]
+              "keys": ["8", "A"]
             },
             {
               "type": "pressed",
@@ -162,11 +162,11 @@
         {
           "words": [{
               "type": "pressed",
-              "keys": [7, "B"]
+              "keys": ["7", "B"]
             },
             {
               "type": "pressed",
-              "keys": [8, "A"]
+              "keys": ["8", "A"]
             },
             {
               "type": "pressed",
@@ -174,11 +174,11 @@
             },
             {
               "type": "pressed",
-              "keys": [9, "C"]
+              "keys": ["9", "C"]
             },
             {
               "type": "pressed",
-              "keys": [8, "A"]
+              "keys": ["8", "A"]
             },
             {
               "type": "pressed",
@@ -198,35 +198,35 @@
       "sentences": [{
         "words": [{
             "type": "pressed",
-            "keys": [3, 7]
+            "keys": ["3", "7"]
           },
           {
             "type": "pressed",
-            "keys": [8]
+            "keys": ["8"]
           },
           {
             "type": "pressed",
-            "keys": [9]
+            "keys": ["9"]
           },
           {
             "type": "pressed",
-            "keys": [8]
+            "keys": ["8"]
           },
           {
             "type": "pressed",
-            "keys": [7]
+            "keys": ["7"]
           },
           {
             "type": "pressed",
-            "keys": [8]
+            "keys": ["8"]
           },
           {
             "type": "pressed",
-            "keys": [9]
+            "keys": ["9"]
           },
           {
             "type": "pressed",
-            "keys": [8]
+            "keys": ["8"]
           }
         ]
       }]
@@ -236,145 +236,145 @@
       "sentences": [{
           "words": [{
               "type": "pressed",
-              "keys": [3, 5, 7, "B"]
+              "keys": ["3", "5", "7", "B"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [5]
+              "keys": ["5"]
             },
             {
               "type": "pressed",
-              "keys": [5]
+              "keys": ["5"]
             }
           ]
         },
         {
           "words": [{
               "type": "pressed",
-              "keys": [4, 8, "A"]
+              "keys": ["4", "8", "A"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [6]
+              "keys": ["6"]
             },
             {
               "type": "pressed",
-              "keys": [6, 9, "C"]
+              "keys": ["6", "9", "C"]
             }
           ]
         },
         {
           "words": [{
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [5]
+              "keys": ["5"]
             },
             {
               "type": "pressed",
-              "keys": [5]
+              "keys": ["5"]
             },
             {
               "type": "pressed",
-              "keys": [4, 8, "A"]
+              "keys": ["4", "8", "A"]
             },
             {
               "type": "pressed",
-              "keys": [4, "A"]
+              "keys": ["4", "A"]
             },
             {
               "type": "pressed",
-              "keys": [5, "A"]
+              "keys": ["5", "A"]
             }
           ]
         }, {
           "words": [{
               "type": "pressed",
-              "keys": [5, 7, "B"]
+              "keys": ["5", "7", "B"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [5]
+              "keys": ["5"]
             },
             {
               "type": "pressed",
-              "keys": [5]
+              "keys": ["5"]
             }
           ]
         },
         {
           "words": [{
               "type": "pressed",
-              "keys": [4, 8, "A"]
+              "keys": ["4", "8", "A"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [6]
+              "keys": ["6"]
             },
             {
               "type": "pressed",
-              "keys": [6, 9, "C"]
+              "keys": ["6", "9", "C"]
             }
           ]
         },
         {
           "words": [{
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [4]
+              "keys": ["4"]
             },
             {
               "type": "pressed",
-              "keys": [5]
+              "keys": ["5"]
             },
             {
               "type": "pressed",
-              "keys": [5]
+              "keys": ["5"]
             },
             {
               "type": "pressed",
-              "keys": [4, 8, "A"]
+              "keys": ["4", "8", "A"]
             },
             {
               "type": "pressed",
-              "keys": [4, "A"]
+              "keys": ["4", "A"]
             },
             {
               "type": "pressed",
-              "keys": [3, 5, "A"]
+              "keys": ["3", "5", "A"]
             }
           ]
         }
