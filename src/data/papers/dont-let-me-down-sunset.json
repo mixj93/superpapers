@@ -1,0 +1,210 @@
+{
+  "id": "sunset",
+  "kit": "SUNSET",
+  "song": "Don't Let Me Down",
+  "artist": "The Chainsmokers",
+  "author": "mixj93",
+  "cover": "http://p2.music.126.net/8OaUdgIdXt4zvbshp0OUvw==/109951163165818847.jpg",
+  "createAt": 1572245841,
+  "updateAt": 1572245841,
+  "sides": [
+    ["orange", "blue-loop", "red", "orange", "blue-loop", "red", "orange", "blue-loop", "red", "orange", "blue-loop", "red"]
+  ],
+  "paragraphs": [{
+      "title": "Part 1",
+      "sentences": [{
+          "words": [{
+              "type": "pressed",
+              "keys": [1]
+            },
+            {
+              "type": "pressed",
+              "keys": [4]
+            },
+            {
+              "type": "pressed",
+              "keys": [7]
+            },
+            {
+              "type": "pressed",
+              "keys": ["A"]
+            }
+          ]
+        },
+        {
+          "words": [{
+              "type": "pressed",
+              "keys": [1, 2]
+            },
+            {
+              "type": "pressed",
+              "keys": [4]
+            },
+            {
+              "type": "pressed",
+              "keys": [7]
+            },
+            {
+              "type": "pressed",
+              "keys": ["A"]
+            }
+          ]
+        },
+        {
+          "words": [{
+              "type": "pressed",
+              "keys": [1, 5]
+            },
+            {
+              "type": "pressed",
+              "keys": [4]
+            },
+            {
+              "type": "pressed",
+              "keys": [7]
+            },
+            {
+              "type": "pressed",
+              "keys": ["A"]
+            }
+          ]
+        },
+        {
+          "words": [{
+              "type": "pressed",
+              "keys": [1, 8]
+            },
+            {
+              "type": "pressed",
+              "keys": [4]
+            },
+            {
+              "type": "pressed",
+              "keys": [7]
+            },
+            {
+              "type": "pressed",
+              "keys": ["A"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Part 2",
+      "sentences": [{
+          "words": [{
+              "type": "pressed",
+              "keys": [3, "B"]
+            },
+            {
+              "type": "pressed",
+              "keys": [6]
+            },
+            {
+              "type": "pressed",
+              "keys": [3]
+            },
+            {
+              "type": "pressed",
+              "keys": [6]
+            },
+            {
+              "type": "pressed",
+              "keys": [3]
+            },
+            {
+              "type": "pressed",
+              "keys": [3]
+            },
+            {
+              "type": "pressed",
+              "keys": [3]
+            },
+            {
+              "type": "pressed",
+              "keys": [6]
+            }
+          ]
+        },
+        {
+          "words": [{
+              "type": "pressed",
+              "keys": [9]
+            },
+            {
+              "type": "pressed",
+              "keys": ["C"]
+            },
+            {
+              "type": "pressed",
+              "keys": [9]
+            },
+            {
+              "type": "pressed",
+              "keys": ["C"]
+            },
+            {
+              "type": "pressed",
+              "keys": [9]
+            },
+            {
+              "type": "pressed",
+              "keys": [9]
+            },
+            {
+              "type": "pressed",
+              "keys": [9]
+            },
+            {
+              "type": "pressed",
+              "keys": ["C"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Part 3",
+      "sentences": [{
+          "words": [{
+              "type": "pressed",
+              "keys": [1, 8]
+            },
+            {
+              "type": "pressed",
+              "keys": [4]
+            },
+            {
+              "type": "pressed",
+              "keys": [7]
+            },
+            {
+              "type": "pressed",
+              "keys": ["A"]
+            }
+          ]
+        },
+        {
+          "words": [{
+              "type": "pressed",
+              "keys": [1]
+            },
+            {
+              "type": "pressed",
+              "keys": [4]
+            },
+            {
+              "type": "pressed",
+              "keys": [7, 8]
+            },
+            {
+              "type": "pressed",
+              "keys": ["A"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

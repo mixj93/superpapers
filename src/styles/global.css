@@ -1,0 +1,90 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.clearfix {
+  zoom: 1;
+}
+
+.clearfix::before,
+.clearfix::after {
+  display: table;
+  content: '';
+}
+
+.clearfix::after {
+  clear: both;
+}
+
+/* PAD */
+.pad {
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pad i.loop-icon {
+  color: white;
+  font-size: 0.5em;
+}
+
+.pad.pressed i.loop-icon {
+  opacity: 0.75;
+}
+
+.pad.color-red {
+  background-color: #E14D76;
+}
+
+.pad.color-orange {
+  background-color: #F2A139;
+}
+
+.pad.color-green {
+  background-color: #48984f;
+}
+
+.pad.color-blue {
+  background-color: #54BCF4;
+}
+
+.pad.color-red.pressed {
+  background: radial-gradient(white, #E14D76);
+}
+
+.pad.color-orange.pressed {
+  background: radial-gradient(white, #F2A139);
+}
+
+.pad.color-green.pressed {
+  background: radial-gradient(white, #48984f);
+}
+
+.pad.color-blue.pressed {
+  background: radial-gradient(white, #54BCF4);
+}
+
+.pads {
+  background-color: #2D3336;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.paper .paragraph_title {
+  text-align: center;
+}
+
+.paper .pads {
+  float: left;
+  margin-right: 16px;
+}
+
+.paper .repeat {
+  font-size: 32px;
+  color: #E14D76;
+  float: left;
+}
