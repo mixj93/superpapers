@@ -3,6 +3,12 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'PingFang SC', 'Hiragino Sans GB', 'Heiti SC', 'Microsoft YaHei', 'WenQuanYi Micro Hei', Helvetica, Tahoma, Arial, sans-serif;
+  color: #202936;
+  font-size: 14px;
+}
+
+a {
+  color: #E14D76;
 }
 
 .clearfix {
@@ -17,6 +23,27 @@ body {
 
 .clearfix::after {
   clear: both;
+}
+
+.button {
+  line-height: 40px;
+  height: 40px;
+  padding: 0 20px;
+  margin: 0;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  background-color: #E14D76;
+}
+
+.button:hover {
+  opacity: 0.85;
+}
+
+.button:focus {
+  opacity: 0.75;
 }
 
 /* PAD */

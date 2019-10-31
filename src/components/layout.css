@@ -1,0 +1,15 @@
+.main {
+  box-sizing: border-box;
+  max-width: 960px;
+  min-height: calc(100vh - 80px);
+  margin: 0 auto;
+  padding: 84px 0 24px 0;
+}
+
+.footer {
+  height: 80px;
+  border-top: 1px solid #e2e4e9;
+  text-align: center;
+  box-sizing: border-box;
+  line-height: 80px;
+}

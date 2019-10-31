@@ -6,7 +6,7 @@ import SEO from '../components/seo'
 
 export default ({ data }) => {
   const paper = data.papersJson
-  console.log(paper)
+
   return (
     <Layout>
       <SEO title={`${paper.song} - ${paper.artist}`} />

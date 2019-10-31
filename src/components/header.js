@@ -1,14 +1,15 @@
 import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React from 'react'
+import icon from '../images/icon.png'
+import './header.css'
 
 const Header = ({ siteTitle }) => (
-  <header>
-    <div style={{ margin: `0 auto`, maxWidth: 960, textAlign: 'center' }}>
-      <h1>
-        <Link to="/">{siteTitle}</Link>
-      </h1>
-    </div>
+  <header className="header">
+    <Link className="link clearfix" to="/">
+      <img className="logo" src={icon} alt="Super papers" />
+      <h1 className="title">{siteTitle}</h1>
+    </Link>
   </header>
 )
 

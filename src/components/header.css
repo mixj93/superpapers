@@ -1,0 +1,29 @@
+.header {
+  height: 60px;
+  border-bottom: 1px solid #e2e4e9;
+  text-align: center;
+  box-sizing: border-box;
+  position: fixed;
+  width: 100%;
+  background: white;
+  z-index: 999;
+}
+
+.header .link {
+  display: inline-block;
+}
+
+.header .logo {
+  width: 36px;
+  height: 36px;
+  margin: 12px 12px 12px 0;
+  float: left;
+}
+
+.header .title {
+  margin: 0;
+  line-height: 60px;
+  font-size: 24px;
+  float: left;
+  color: #202936;
+}
