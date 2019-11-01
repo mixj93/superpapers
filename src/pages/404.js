@@ -10,7 +10,7 @@ const NotFoundPage = () => (
     <div className="not-found-page">
       <h1 className="title">404</h1>
       <p className="subtitle">Oops, Page Not Found!</p>
-      <Link className="button" to="/">
+      <Link className="back-home-btn button" to="/">
         Back to Home
       </Link>
     </div>

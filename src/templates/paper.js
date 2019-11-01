@@ -12,7 +12,7 @@ export default ({ data }) => {
       <SEO title={`${paper.song} - ${paper.artist}`} />
 
       <h1 style={{ textAlign: 'center' }}>{`${paper.song} - ${paper.artist}`}</h1>
-      <p style={{ textAlign: 'center' }}>{`Kit: ${paper.kit} maded by ${paper.author}`}</p>
+      <p style={{ textAlign: 'center' }}>{`Kit: ${paper.kit}`}</p>
       <Paper padSize="20px" showPadNumber={false} sides={paper && paper.sides} paragraphs={paper && paper.paragraphs} />
     </Layout>
   )
@@ -23,7 +23,6 @@ export const query = graphql`
     papersJson(id: { eq: $id }) {
       id
       artist
-      author
       kit
       song
       sides

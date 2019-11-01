@@ -6,6 +6,13 @@
   padding: 84px 0 24px 0;
 }
 
+@media screen and (max-width: 1008px) {
+  .main {
+    padding: 84px 24px 24px 24px;
+  }
+}
+
+
 .footer {
   height: 80px;
   border-top: 1px solid #e2e4e9;

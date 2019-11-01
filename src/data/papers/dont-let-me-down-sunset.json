@@ -2,9 +2,10 @@
   "id": "sunset",
   "kit": "SUNSET",
   "song": "Don't Let Me Down",
-  "artist": "The Chainsmokers",
-  "author": "mixj93",
-  "cover": "https://p2.music.126.net/8OaUdgIdXt4zvbshp0OUvw==/109951163165818847.jpg",
+  "artist": ["The Chainsmokers"],
+  "kitAuthor": "Super Pads",
+  "paperAuthor": "mixj93",
+  "cover": "https://p2.music.126.net/8OaUdgIdXt4zvbshp0OUvw==/109951163165818847.jpg?param=80y80",
   "createAt": 1572245841,
   "updateAt": 1572245841,
   "sides": [

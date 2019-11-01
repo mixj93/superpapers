@@ -1,0 +1,72 @@
+.paper-list .paper-item {
+  padding: 20px 10px;
+  border-bottom: 1px solid #e2e4e9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.paper-list .paper-item:last-child {
+  border-bottom: none;
+}
+
+.paper-list .info {
+  display: flex;
+  align-items: center;
+}
+
+.paper-list .cover {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+
+.paper-list .description .song-title {
+  margin: 0 0 8px 0;
+  font-size: 18px;
+}
+
+.paper-list .description .song-info {
+  margin: 0;
+  line-height: 1.7;
+  color: #9aa1ac;
+}
+
+.paper-list .divider {
+  color: #e2e4e9;
+  margin: 0 8px;
+}
+
+.paper-list .kit-author {
+  display: inline-block;
+  background-color: rgba(242, 161, 57, 0.4);
+  color: #f2a139;
+  font-size: 10px;
+  border-radius: 2px;
+  line-height: 14px;
+  padding: 0 8px;
+}
+
+.paper-list .kit-author.official {
+  background-color: rgba(84, 188, 244, 0.4);
+  color: #54bcf4;
+}
+
+
+
+@media screen and (max-width: 767px) {
+  .paper-list .paper-item {
+    padding: 20px 10px;
+    border-bottom: 1px solid #e2e4e9;
+    display: block;
+    text-align: center;
+  }
+
+
+  .paper-list .info {
+    align-items: flex-start;
+    text-align: left;
+    margin-bottom: 10px;
+  }
+}

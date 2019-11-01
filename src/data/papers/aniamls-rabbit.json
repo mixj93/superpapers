@@ -2,9 +2,10 @@
   "id": "rabbit",
   "kit": "RABBIT",
   "song": "Animals",
-  "artist": "Martin Garrix",
-  "author": "mixj93",
-  "cover": "https://p1.music.126.net/DuqxLMfiec2T18GXn1-yVQ==/109951163215172949.jpg",
+  "artist": ["Martin Garrix"],
+  "kitAuthor": "Super Pads",
+  "paperAuthor": "mixj93",
+  "cover": "https://p1.music.126.net/DuqxLMfiec2T18GXn1-yVQ==/109951163215172949.jpg?param=80y80",
   "createAt": 1572447848,
   "updateAt": 1572447848,
   "sides": [

@@ -2,9 +2,10 @@
   "id": "pop-hit",
   "kit": "POP HIT",
   "song": "Closer ft. Halsey",
-  "artist": "The Chainsmokers",
-  "author": "mixj93",
-  "cover": "https://p1.music.126.net/nC7UtVKkQNmfb8oPG1qQFw==/3310629516306722.jpg",
+  "artist": ["The Chainsmokers"],
+  "kitAuthor": "Super Pads",
+  "paperAuthor": "mixj93",
+  "cover": "https://p1.music.126.net/nC7UtVKkQNmfb8oPG1qQFw==/3310629516306722.jpg?param=80y80",
   "createAt": 1572245841,
   "updateAt": 1572245841,
   "sides": [

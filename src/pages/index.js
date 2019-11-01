@@ -1,6 +1,7 @@
 import React from 'react'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 import Layout from '../components/layout'
+import PaperList from '../components/paperList'
 import SEO from '../components/seo'
 
 const IndexPage = ({ data }) => {
@@ -8,21 +9,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <SEO title="Home" />
 
-      <div>
-        {data.allPapersJson.edges.map(({ node }) => (
-          <div key={node.id} className="clearfix">
-            <Link to={`/${node.id}`}>
-              <img src={node.cover} alt={node.song} style={{ width: 80, height: 80, float: 'left', marginRight: 8 }} />
-              <h3>
-                {node.song} <span>— {node.artist}</span>
-              </h3>
-              <p>
-                {node.kit} / {node.author}
-              </p>
-            </Link>
-          </div>
-        ))}
-      </div>
+      <PaperList papers={data.allPapersJson.edges} />
     </Layout>
   )
 }
@@ -34,8 +21,9 @@ export const query = graphql`
         node {
           id
           artist
-          author
           kit
+          kitAuthor
+          paperAuthor
           song
           cover
         }
