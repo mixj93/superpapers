@@ -1,0 +1,289 @@
+{
+  "id": "nosotros",
+  "kit": "NOSOTROS",
+  "song": "Mi Gente",
+  "artist": ["J. Balvin", "Willy William"],
+  "kitAuthor": "Super Pads",
+  "paperAuthor": "mixj93",
+  "cover": "https://p2.music.126.net/UNdY24-4naOgN7-j7nrzSw==/17920940021389771.jpg?param=80y80",
+  "createAt": 1572589358,
+  "updateAt": 1572589358,
+  "sides": [
+    ["blue-loop", "orange", "red", "blue-loop", "green", "red", "blue-loop", "green", "red", "blue-loop", "green", "red"]
+  ],
+  "paragraphs": [{
+    "title": "Part 1",
+    "sentences": [{
+        "words": [{
+            "type": "pressed",
+            "keys": ["3"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ],
+        "repeat": 4
+      },
+      {
+        "words": [{
+            "type": "pressed",
+            "keys": ["1", "3"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ]
+      },
+      {
+        "words": [{
+            "type": "pressed",
+            "keys": ["3"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ],
+        "repeat": 3
+      },
+      {
+        "words": [{
+            "type": "pressed",
+            "keys": ["2", "3", "4", "5"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ]
+      },
+      {
+        "words": [{
+            "type": "pressed",
+            "keys": ["3"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ]
+      },
+      {
+        "words": [{
+            "type": "pressed",
+            "keys": ["2", "3", "5"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ]
+      },
+      {
+        "words": [{
+            "type": "pressed",
+            "keys": ["3"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ]
+      },
+      {
+        "words": [{
+            "type": "pressed",
+            "keys": ["2", "3", "5", "7"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ]
+      },
+      {
+        "words": [{
+            "type": "pressed",
+            "keys": ["8"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["2", "3", "5"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ],
+        "repeat": 3
+      },
+      {
+        "words": [{
+            "type": "pressed",
+            "keys": ["7", "B"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["3", "A"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ]
+      },
+      {
+        "words": [{
+            "type": "pressed",
+            "keys": ["3"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["6"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["9"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          },
+          {
+            "type": "pressed",
+            "keys": ["C"]
+          }
+        ],
+        "repeat": 3
+      },
+      {
+        "words": [{
+          "type": "pressed",
+          "keys": ["5", "A"]
+        }]
+      }
+    ]
+  }]
+}
