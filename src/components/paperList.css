@@ -6,10 +6,6 @@
   align-items: center;
 }
 
-.paper-list .paper-item:last-child {
-  border-bottom: none;
-}
-
 .paper-list .info {
   display: flex;
   align-items: center;

@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import { Trans } from 'react-i18next'
 import './paperList.css'
 
 const PaperList = ({ papers }) => {
@@ -24,7 +25,7 @@ const PaperList = ({ papers }) => {
             </div>
           </div>
           <Link className="view-btn button" to={`/${node.id}`}>
-            View
+            <Trans>View</Trans>
           </Link>
         </div>
       ))}

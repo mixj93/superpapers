@@ -1,0 +1,10 @@
+.cannot-find-hint {
+  text-align: center;
+  margin: 30px 0 0 0;
+  color: #9aa1ac;
+}
+
+.cannot-find-hint a {
+  text-decoration: underline;
+  color: #54bcf4;
+}
