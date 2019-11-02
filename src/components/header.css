@@ -27,3 +27,39 @@
   float: left;
   color: #202936;
 }
+
+.header .language-switcher {
+  position: absolute;
+  top: 20px;
+  right: 24px;
+  line-height: 20px;
+}
+
+
+.language-switcher .current {
+  color: #54bcf4;
+}
+
+.language-switcher button {
+  color: #9aa1ac;
+  height: 20px;
+  cursor: pointer;
+  line-height: 20px;
+  background: none;
+  border: none;
+  outline: none;
+  padding: 0;
+}
+
+.language-switcher .divider {
+  color: #e2e4e9;
+  height: 20px;
+  line-height: 20px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 767px) {
+  .header .language-switcher {
+    right: 12px;
+  }
+}
