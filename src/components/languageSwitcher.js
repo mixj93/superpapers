@@ -25,7 +25,7 @@ class LanguageSwitcher extends Component {
     return (
       <div className="language-switcher">
         {languages.map((language, i) => {
-          if (currentLang.indexOf(language.code) === 0) {
+          if (currentLang && currentLang.indexOf(language.code) === 0) {
             return (
               <React.Fragment key={language.code}>
                 <span className="current">{language.label}</span>
