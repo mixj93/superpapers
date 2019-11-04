@@ -1,0 +1,44 @@
+.paper-detail .paper-head {
+  border-bottom: 1px solid #e2e4e9;
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+}
+
+.paper-detail .paper-title {
+  font-size: 24px;
+  margin: 16px 0;
+  text-align: center;
+}
+
+.paper-detail .paper-info {
+  padding: 0 8px;
+}
+
+.paper-info .item {
+  float: left;
+  width: 33.33%;
+}
+
+.paper-info .item .label {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.paper-info .item.artist .label {
+  color: #e14d76;
+}
+
+.paper-info .item.kit .label {
+  color: #f2a139;
+}
+
+.paper-info .item.maker .label {
+  color: #54bcf4;
+}
+
+.paper-info .item .value {
+  font-weight: normal;
+  font-size: 18px;
+  margin: 0;
+  color: #9aa1ac;
+}
