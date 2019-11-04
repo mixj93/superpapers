@@ -42,7 +42,6 @@ const Paper = props => {
                       </span>
                     )}
                   </div>
-                  <p>---</p>
                 </div>
               ))}
             </>

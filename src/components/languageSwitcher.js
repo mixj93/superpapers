@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { withTranslation } from 'react-i18next'
 
-const languages = [{ code: 'en', label: 'English' }, { code: 'zh', label: '中文' }]
+const languages = [{ code: 'en', label: 'EN' }, { code: 'zh', label: '中文' }]
 
 class LanguageSwitcher extends Component {
   constructor(props) {

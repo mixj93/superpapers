@@ -59,6 +59,11 @@
 }
 
 @media screen and (max-width: 767px) {
+  .header {
+    text-align: left;
+    padding: 0 12px;
+  }
+
   .header .language-switcher {
     right: 12px;
   }
