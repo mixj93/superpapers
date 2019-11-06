@@ -18,15 +18,15 @@ export default ({ data }) => {
           <h1 className="paper-title">{paper.song}</h1>
           <div className="paper-info clearfix">
             <div className="item artist">
-              <div className="label">ARTIST</div>
+              <div className="label">{t('ARTIST')}</div>
               <h3 className="value">{paper.artist}</h3>
             </div>
             <div className="item kit">
-              <div className="label">KIT</div>
+              <div className="label">{t('KIT')}</div>
               <h3 className="value">{paper.kit}</h3>
             </div>
             <div className="item maker">
-              <div className="label">PAPER MAKER</div>
+              <div className="label">{t('PAPER MAKER')}</div>
               <h3 className="value">{paper.paperAuthor}</h3>
             </div>
           </div>
@@ -66,6 +66,7 @@ export const query = graphql`
           words {
             type
             keys
+            side
           }
         }
       }

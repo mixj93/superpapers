@@ -7,7 +7,10 @@ export const locales = {
       'Mistakes in this paper? ': 'Mistakes in this paper? ',
       'Let me know': 'Let me know',
       'Oops, Page Not Found!': 'Oops, Page Not Found!',
-      'Back to Home': 'Back to Home'
+      'Back to Home': 'Back to Home',
+      ARTIST: 'ARTIST',
+      KIT: 'KIT',
+      'PAPER MAKER': 'PAPER MAKER'
     }
   },
   zh: {
@@ -18,7 +21,10 @@ export const locales = {
       'Mistakes in this paper? ': '该曲谱有错误？',
       'Let me know': '告诉我',
       'Oops, Page Not Found!': '糟糕，页面未找到！',
-      'Back to Home': '返回首页'
+      'Back to Home': '返回首页',
+      ARTIST: '艺术家',
+      KIT: 'KIT',
+      'PAPER MAKER': 'PAPER制作者'
     }
   }
 }

@@ -1,0 +1,203 @@
+{
+  "id": "flamingo",
+  "kit": "FLAMINGO",
+  "song": "Paradise",
+  "artist": ["Coldplay"],
+  "kitAuthor": "Super Pads",
+  "paperAuthor": "mixj93",
+  "cover": "https://p1.music.126.net/LCEuJ-zqjVkQjzzjfc_kzw==/109951164249604522.jpg?param=80y80",
+  "createAt": 1573008729,
+  "updateAt": 1573008729,
+  "sides": [
+    ["red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red"],
+    ["blue-loop", "red", "orange", "blue-loop", "red", "orange", "red", "red", "orange", "red", "red", "orange"]
+  ],
+  "paragraphs": [{
+      "title": "Part 1: Side A",
+      "sentences": [{
+          "words": [{
+              "type": "pressed",
+              "keys": ["1"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["4"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["7"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["A"]
+            }
+          ]
+        },
+        {
+          "words": [{
+              "type": "pressed",
+              "keys": ["2"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["5"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["8"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["B"]
+            }
+          ]
+        },
+        {
+          "words": [{
+              "type": "pressed",
+              "keys": ["3"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["6"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["9"]
+            },
+            {
+              "type": "pressed",
+              "keys": ["C"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Side B",
+      "sentences": [{
+          "words": [{
+              "type": "pressed",
+              "keys": ["3"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["1", "2"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["6"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["5"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["9"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["8"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["C"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["B"],
+              "side": 1
+            }
+          ]
+        },
+        {
+          "words": [{
+              "type": "pressed",
+              "keys": ["3"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["2"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["6"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["5"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["9"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["8"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["C"],
+              "side": 1
+            },
+            {
+              "type": "pressed",
+              "keys": ["B"],
+              "side": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Part 3: Side B",
+      "sentences": [{
+        "words": [{
+            "type": "pressed",
+            "keys": ["4", "7"],
+            "side": 1
+          },
+          {
+            "type": "pressed",
+            "keys": ["A"],
+            "side": 1
+          },
+          {
+            "type": "pressed",
+            "keys": ["7"],
+            "side": 1
+          },
+          {
+            "type": "pressed",
+            "keys": ["A"],
+            "side": 1
+          }
+        ]
+      }]
+    },
+    {
+      "title": "Part 4: Part 2 x2",
+      "sentences": [{
+        "words": [{
+          "type": "pressed",
+          "keys": ["1"],
+          "side": 1
+        }]
+      }]
+    }
+  ]
+}
